@@ -34,7 +34,7 @@ public class View extends JFrame implements ActionListener{
 
 	public View()
 	{
-		super("Controle de Elevador");
+		super("Controle do Elevador");
 		
 		movimenta = new Movimenta();
 		
